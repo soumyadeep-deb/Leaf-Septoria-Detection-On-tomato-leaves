@@ -48,3 +48,6 @@ Move the remaining images into the respective folders and place these two folder
 **Your dataset is complete!**
 
 Upload the train and valid data into your Google Drive and mention the paths after the drive is mounted on Google Colab.
+
+### I could not upload the trained model, as it is 51 MB in size, and Github is allowing me to upload only upto 25 MB.
+
