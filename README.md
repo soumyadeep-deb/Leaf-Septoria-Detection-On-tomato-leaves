@@ -3,13 +3,6 @@ Leaf Septoria is a disease that effects tomato plants quite often.
 
 We used CNN here to detect that disease.
 
-# Future Work
-We are expanding this to detecting multiple diseases on different plants.
-
-We are building a web page, where a farmer will be able to upload an image and they will be shown what disease it is along with the solution on resolving it.
-
-The entire project will be available soon.
-
 # More on the project
 ### Augmentation methods used:
 1. Rotation by 30 degrees
@@ -28,8 +21,6 @@ Dropout was introduced in the Dense layers as follows:
 1. 40% Dropout after Flattening
 2. 15% Droput before the first hidden layer
 3. 25% Dropout before the Output layer
-
-The rest is evident from the code itself.
 
 ### Information on the dataset:
 Actual Dataset: https://www.kaggle.com/emmarex/plantdisease
