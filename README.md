@@ -18,7 +18,7 @@ Fill method used: 'nearest'
 We have used a Convolutional Neural Network with 3 Convolution and 3 MaxPool layers.
 
 Dropout was introduced in the Dense layers as follows:
-1. 40% Dropout after Flattening
+1. 40% Dropout before Flattening
 2. 15% Droput before the first hidden layer
 3. 25% Dropout before the Output layer
 
